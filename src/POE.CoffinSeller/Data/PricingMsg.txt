@@ -1,0 +1,45 @@
+﻿WTS Necropolis
+Corpses ilvl 83
+IGN: biG_LA_Necrop
+
+```
+TYPE    	| INCREASED         | SCARCER
+-------------------------------------------------
+Attack      | {x}   | {y}
+Attribute   | {x}   | {y}
+Caster      | {x}   | {y}
+Chaos       | {x}   | {y}
+Cold        | {x}   | {y}
+Critical    | {x}   | {y}
+Defence     | {x}   | {y}
+Elemental   | {x}   | {y}
+Fire        | {x}   | {y}
+Gem         | {x}   | {y}
+Life        | {x}   | {y}
+Lightning   | {x}   | {y}
+Mana        | {x}   | {y}
+Minion      | {x}   | --c  Stock: -
+Physical    | {x}   | {y}
+Resistance  | {x}   | {y}
+Speed       | {x}   | {y}
+----------------------------------------------
+-1 Explicit Modifiers   | {x}
++1 Explicit Modifier    | {x}
++1 to Item Level        | {x}
++5% to Quality          | {x}
++50 Tier Rating         | {x}
+5-Link                  | {x}
+6-Link                  | {x}
+Random Craft Corpses    | {x}
+Reroll Explicit         | {x}
+Reroll Implicit         | {x}
+----------------------------------------------
+20% Additional Item        | {x}
+25% Column                 | {x}
+25% Fracture               | {x}
+40% Increased Effect(All)  | {x}
+25% Mirrored Copy          | {x}
+ 5% Not Be Consumed(All)   | {x}
+25% Row                    | {x}
+25% Split Copy             | {x}
+```
